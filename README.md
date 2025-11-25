@@ -1,24 +1,24 @@
-# CRUD Simple con Express
+# CRUD - Gestor de Productos
 
-API REST sencilla con operaciones CRUD completas.
+API REST completa con operaciones CRUD (Create, Read, Update, Delete) + PATCH y HEAD, desarrollada con **ASP.NET Core 8**.
 
-## Instalación
+## 🚀 Quick Start
 
-```bash
-npm install
-```
+### Requisitos
+- .NET 8 SDK instalado
+- Visual Studio Code o Visual Studio 2022
 
-## Ejecutar
-
-```bash
-npm start
-```
-
-O en modo desarrollo con auto-reinicio:
+### Ejecutar
 
 ```bash
-npm run dev
+# En la carpeta del proyecto
+dotnet run --project CrudAPI.csproj
 ```
+
+**La aplicación estará disponible en:**
+- 🌐 Interfaz web: `http://localhost:5000`
+- 📚 Swagger API: `http://localhost:5000/swagger`
+- 🔒 HTTPS: `https://localhost:5001`
 
 ## Endpoints
 

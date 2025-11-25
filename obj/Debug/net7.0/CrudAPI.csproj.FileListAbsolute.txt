@@ -1,0 +1,9 @@
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.csproj.AssemblyReference.cache
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.AssemblyInfoInputs.cache
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.AssemblyInfo.cs
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jitaz\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR QUITO METROPOLITANO\Escritorio\Crud\obj\Debug\net7.0\CrudAPI.sourcelink.json
